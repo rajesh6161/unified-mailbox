@@ -4,6 +4,7 @@
 
 A multi-channel communication platform that enables teams to send, receive, and manage messages from SMS, WhatsApp, and Email within a unified dashboard. Currently integrated with **Twilio WhatsApp API**
 
+![Project Screenshot](whatsapp-preview.jpeg)
 ---
 
 ## Overview
